@@ -1,0 +1,3 @@
+[submodule "repos/markdown"]
+	path = repos/markdown
+	url = git://github.com/ujihisa/vim-markdown.git
