@@ -27,5 +27,6 @@ set visualbell
 " turn on syntax highlighting for LessCSS
 autocmd BufNew,BufRead *.less set filetype=lessc
 
-" map on `\t` to fuzzy finder
+" map fuzzy finder shortcuts
 map <leader>t :FuzzyFinderTextMate<CR>
+map <leader>b :FuzzyFinderBuffer<CR>
