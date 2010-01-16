@@ -23,3 +23,6 @@ set ruler
 
 " turn beep off
 set visualbell
+
+" turn on syntax highlighting for LessCSS
+autocmd BufNew,BufRead *.less set filetype=lessc
