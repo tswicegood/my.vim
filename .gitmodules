@@ -1,3 +1,6 @@
 [submodule "repos/markdown"]
 	path = repos/markdown
 	url = git://github.com/ujihisa/vim-markdown.git
+[submodule "externals/cucumber"]
+	path = externals/cucumber
+	url = git://github.com/tpope/vim-cucumber.git
