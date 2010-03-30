@@ -10,6 +10,8 @@ set expandtab
 set autoindent
 set smartindent
 
+filetype plugin indent on
+
 colorscheme ir_black
 autocmd BufNew,BufRead *.pml set filetype=xml
 
