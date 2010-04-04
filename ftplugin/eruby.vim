@@ -1,0 +1,1 @@
+../externals/vim-ruby/ftplugin/eruby.vim

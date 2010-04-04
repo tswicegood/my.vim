@@ -4,3 +4,6 @@
 [submodule "externals/cucumber"]
 	path = externals/cucumber
 	url = git://github.com/tpope/vim-cucumber.git
+[submodule "externals/vim-ruby"]
+	path = externals/vim-ruby
+	url = git://github.com/vim-ruby/vim-ruby.git
