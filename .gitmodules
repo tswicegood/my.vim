@@ -10,3 +10,6 @@
 [submodule "externals/vim-vividchalk"]
 	path = externals/vim-vividchalk
 	url = git://github.com/tpope/vim-vividchalk.git
+[submodule "externals/fuzzy_file_finder"]
+	path = externals/fuzzy_file_finder
+	url = git://github.com/jamis/fuzzy_file_finder.git
