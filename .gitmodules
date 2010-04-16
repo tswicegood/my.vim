@@ -7,3 +7,6 @@
 [submodule "externals/vim-ruby"]
 	path = externals/vim-ruby
 	url = git://github.com/vim-ruby/vim-ruby.git
+[submodule "externals/vim-vividchalk"]
+	path = externals/vim-vividchalk
+	url = git://github.com/tpope/vim-vividchalk.git
