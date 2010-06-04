@@ -20,6 +20,10 @@ if has("gui_running")
     set guioptions=egmrt
 endif
 
+" turn on spelling
+syn spell toplevel
+set spell spelllang=en_us
+
 " turn the ruler stats on
 set ruler
 
