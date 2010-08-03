@@ -37,3 +37,6 @@ autocmd BufNew,BufRead *.less set filetype=lessc
 " map fuzzy finder shortcuts
 map <leader>t :FuzzyFinderTextMate<CR>
 map <leader>b :FuzzyFinderBuffer<CR>
+
+" add in support for vork highlight
+so ~/.vim/vork.vim
