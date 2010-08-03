@@ -1,0 +1,1 @@
+../externals/git-vim/autoload/git.vim
