@@ -19,3 +19,6 @@
 [submodule "externals/git-vim"]
 	path = externals/git-vim
 	url = http://github.com/Shougo/git-vim.git
+[submodule "externals/gist-vim"]
+	path = externals/gist-vim
+	url = http://github.com/mattn/gist-vim.git
