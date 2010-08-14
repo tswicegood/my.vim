@@ -42,3 +42,7 @@ so ~/.vim/vork.vim
 
 " make sure that git-vim can locate my Homebrew binary
 let g:git_bin = "/usr/local/bin/git"
+
+" load my github credentials
+so ~/.vim/github_credentials.vim
+
