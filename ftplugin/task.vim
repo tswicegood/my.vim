@@ -1,0 +1,1 @@
+../externals/vim-task/ftplugin/task.vim
