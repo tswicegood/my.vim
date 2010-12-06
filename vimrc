@@ -46,3 +46,5 @@ let g:git_bin = "/usr/local/bin/git"
 " load my github credentials
 so ~/.vim/github_credentials.vim
 
+" make sure the cursor is always in the middle
+set scrolloff=999
