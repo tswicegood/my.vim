@@ -25,3 +25,6 @@
 [submodule "externals/vim-task"]
 	path = externals/vim-task
 	url = http://github.com/tswicegood/vim-task.git
+[submodule "externals/pathogen"]
+	path = externals/pathogen
+	url = git://github.com/tpope/vim-pathogen.git
