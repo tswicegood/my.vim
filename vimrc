@@ -37,8 +37,6 @@ autocmd BufNew,BufRead *.less set filetype=lessc
 " map fuzzy finder shortcuts
 map <leader>b :FuzzyFinderBuffer<CR>
 
-" add in support for vork highlight
-so ~/.vim/vork.vim
 
 " make sure that git-vim can locate my Homebrew binary
 let g:git_bin = "/usr/local/bin/git"
