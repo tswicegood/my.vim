@@ -17,6 +17,7 @@
 :FuzzyFinderTag	fuzzyfinder.txt	/*:FuzzyFinderTag*
 :FuzzyFinderTagWithCursorWord	fuzzyfinder.txt	/*:FuzzyFinderTagWithCursorWord*
 :FuzzyFinderTaggedFile	fuzzyfinder.txt	/*:FuzzyFinderTaggedFile*
+:ToggleRaibowParenthesis	rainbow_parenthsis.txt	/*:ToggleRaibowParenthesis*
 :VWS	vimwiki.txt	/*:VWS*
 :Vimwiki2HTML	vimwiki.txt	/*:Vimwiki2HTML*
 :VimwikiAll2HTML	vimwiki.txt	/*:VimwikiAll2HTML*
@@ -228,6 +229,18 @@ g:vimwiki_upper	vimwiki.txt	/*g:vimwiki_upper*
 g:vimwiki_use_calendar	vimwiki.txt	/*g:vimwiki_use_calendar*
 g:vimwiki_use_mouse	vimwiki.txt	/*g:vimwiki_use_mouse*
 g:vimwiki_w32_dir_enc	vimwiki.txt	/*g:vimwiki_w32_dir_enc*
+rainbow_parenthsis#Activate()	rainbow_parenthsis.txt	/*rainbow_parenthsis#Activate()*
+rainbow_parenthsis#Clear()	rainbow_parenthsis.txt	/*rainbow_parenthsis#Clear()*
+rainbow_parenthsis#LoadBraces()	rainbow_parenthsis.txt	/*rainbow_parenthsis#LoadBraces()*
+rainbow_parenthsis#LoadChevrons()	rainbow_parenthsis.txt	/*rainbow_parenthsis#LoadChevrons()*
+rainbow_parenthsis#LoadRound()	rainbow_parenthsis.txt	/*rainbow_parenthsis#LoadRound()*
+rainbow_parenthsis#LoadSquare()	rainbow_parenthsis.txt	/*rainbow_parenthsis#LoadSquare()*
+rainbow_parenthsis#Toggle()	rainbow_parenthsis.txt	/*rainbow_parenthsis#Toggle()*
+rainbow_parenthsis-about	rainbow_parenthsis.txt	/*rainbow_parenthsis-about*
+rainbow_parenthsis-commands	rainbow_parenthsis.txt	/*rainbow_parenthsis-commands*
+rainbow_parenthsis-configure	rainbow_parenthsis.txt	/*rainbow_parenthsis-configure*
+rainbow_parenthsis-functions	rainbow_parenthsis.txt	/*rainbow_parenthsis-functions*
+rainbow_parenthsis.txt	rainbow_parenthsis.txt	/*rainbow_parenthsis.txt*
 ruby.vim	ft-ruby-syntax.txt	/*ruby.vim*
 vimwiki	vimwiki.txt	/*vimwiki*
 vimwiki-calendar	vimwiki.txt	/*vimwiki-calendar*
