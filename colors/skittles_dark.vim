@@ -1,0 +1,1 @@
+../bundle/skittles-dark/colors/skittles_dark.vim

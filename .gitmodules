@@ -34,3 +34,12 @@
 [submodule "bundle/vim-pep8"]
 	path = bundle/vim-pep8
 	url = git://github.com/nvie/vim-pep8.git
+[submodule "bundle/tir_black"]
+	path = bundle/tir_black
+	url = git://github.com/vim-scripts/tir_black.git
+[submodule "bundle/skittles-dark"]
+	path = bundle/skittles-dark
+	url = https://github.com/vim-scripts/Skittles-Dark.git
+[submodule "bundle/herald"]
+	path = bundle/herald
+	url = https://github.com/vim-scripts/herald.vim.git

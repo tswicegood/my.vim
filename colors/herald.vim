@@ -1,0 +1,1 @@
+../bundle/herald/colors/herald.vim
