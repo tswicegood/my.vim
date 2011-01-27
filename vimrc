@@ -1,3 +1,8 @@
+" load up pathogen
+filetype off
+call pathogen#runtime_append_all_bundles()
+call pathogen#helptags()
+
 " Set standard setting for PEAR coding standards
 set tabstop=4
 set softtabstop=4
@@ -47,6 +52,3 @@ so ~/.vim/github_credentials.vim
 " make sure the cursor is always in the middle
 set scrolloff=10
 
-" load up pathogen
-call pathogen#runtime_append_all_bundles()
-call pathogen#helptags()
