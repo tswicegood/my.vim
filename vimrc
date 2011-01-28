@@ -18,7 +18,7 @@ set smartindent
 filetype plugin indent on
 
 " colorscheme ir_black
-colorscheme busybee
+colorscheme jellybeans
 autocmd BufNew,BufRead *.pml set filetype=xml
 
 " hide the toolbar
