@@ -52,3 +52,6 @@
 [submodule "bundle/colors-jammy"]
 	path = bundle/colors-jammy
 	url = https://github.com/vim-scripts/jammy.vim.git
+[submodule "bundle/colors-jellyx"]
+	path = bundle/colors-jellyx
+	url = https://github.com/guns/jellyx.vim.git
