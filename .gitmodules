@@ -55,3 +55,6 @@
 [submodule "bundle/colors-jellyx"]
 	path = bundle/colors-jellyx
 	url = https://github.com/guns/jellyx.vim.git
+[submodule "bundle/colors-jellybeans"]
+	path = bundle/colors-jellybeans
+	url = https://github.com/nanotech/jellybeans.vim.git
