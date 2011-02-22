@@ -61,3 +61,6 @@
 [submodule "bundle/align"]
 	path = bundle/align
 	url = https://github.com/tsaleh/vim-align.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = git@github.com:scrooloose/nerdtree.git
