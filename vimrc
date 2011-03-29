@@ -47,7 +47,6 @@ autocmd BufNew,BufRead *.less set filetype=lessc
 " map fuzzy finder shortcuts
 map <leader>b :FuzzyFinderBuffer<CR>
 
-
 " make sure that git-vim can locate my Homebrew binary
 let g:git_bin = "/usr/local/bin/git"
 
