@@ -19,6 +19,8 @@ filetype plugin indent on
 
 " colorscheme ir_black
 colorscheme jellybeans
+
+" Pragmatic Markup Language should be rendered as XML
 autocmd BufNew,BufRead *.pml set filetype=xml
 
 " hide the toolbar
