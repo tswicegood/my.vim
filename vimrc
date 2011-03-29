@@ -52,3 +52,5 @@ so ~/.vim/github_credentials.vim
 " make sure the cursor is always in the middle
 set scrolloff=10
 
+" add in short cut for Nerd tree
+map <leader>e :NERDTreeToggle<CR>
