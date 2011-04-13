@@ -13,9 +13,6 @@
 [submodule "externals/fuzzy_file_finder"]
 	path = externals/fuzzy_file_finder
 	url = git://github.com/jamis/fuzzy_file_finder.git
-[submodule "externals/vim-coffee-script"]
-	path = externals/vim-coffee-script
-	url = git://github.com/kchmck/vim-coffee-script.git
 [submodule "externals/git-vim"]
 	path = externals/git-vim
 	url = http://github.com/Shougo/git-vim.git
@@ -64,3 +61,6 @@
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = git@github.com:scrooloose/nerdtree.git
+[submodule "bundle/vim-coffee-script"]
+	path = bundle/vim-coffee-script
+	url = git://github.com/kchmck/vim-coffee-script.git
