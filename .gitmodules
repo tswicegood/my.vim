@@ -73,3 +73,6 @@
 [submodule "bundle/puppet-vim"]
 	path = bundle/puppet-vim
 	url = git://github.com/ajf/puppet-vim.git
+[submodule "bundle/taglist"]
+	path = bundle/taglist
+	url = git://github.com/vim-scripts/taglist.vim.git
