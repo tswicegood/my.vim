@@ -21,7 +21,7 @@ filetype plugin indent on
 colorscheme jellybeans
 
 " Pragmatic Markup Language should be rendered as XML
-autocmd BufNew,BufRead *.pml set filetype=xml
+"autocmd BufNew,BufRead *.pml set filetype=xml
 
 " hide the toolbar
 if has("gui_running")

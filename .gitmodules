@@ -76,3 +76,6 @@
 [submodule "bundle/taglist"]
 	path = bundle/taglist
 	url = git://github.com/vim-scripts/taglist.vim.git
+[submodule "bundle/pml"]
+	path = bundle/pml
+	url = git://github.com/nelstrom/vim-pml.git
