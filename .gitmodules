@@ -79,3 +79,6 @@
 [submodule "bundle/pml"]
 	path = bundle/pml
 	url = git://github.com/nelstrom/vim-pml.git
+[submodule "bundle/pyopen.vim"]
+	path = bundle/pyopen.vim
+	url = git://github.com/tswicegood/pyopen.vim.git

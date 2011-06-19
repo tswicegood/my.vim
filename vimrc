@@ -32,6 +32,9 @@ endif
 map <silent> <leader>s :set spell!<CR>
 set nospell
 
+" open a url
+map <silent> <leader>o :py pyopen(cmd="tabnew")<CR>
+
 " turn the ruler stats on
 set ruler
 
