@@ -82,3 +82,6 @@
 [submodule "bundle/pyopen.vim"]
 	path = bundle/pyopen.vim
 	url = git://github.com/tswicegood/pyopen.vim.git
+[submodule "bundle/ragtag"]
+	path = bundle/ragtag
+	url = git://github.com/tpope/vim-ragtag.git
