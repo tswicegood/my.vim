@@ -85,3 +85,6 @@
 [submodule "bundle/ragtag"]
 	path = bundle/ragtag
 	url = git://github.com/tpope/vim-ragtag.git
+[submodule "bundle/vim-creole"]
+	path = bundle/vim-creole
+	url = git://github.com/vim-scripts/vim-creole.git
