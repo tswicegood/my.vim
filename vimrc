@@ -61,3 +61,6 @@ set scrolloff=10
 
 " add in short cut for Nerd tree
 map <leader>e :NERDTreeToggle<CR>
+
+" make sure to ignore any node_modules paths
+set wildignore+=node_modules
