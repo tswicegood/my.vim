@@ -13,9 +13,6 @@
 [submodule "externals/fuzzy_file_finder"]
 	path = externals/fuzzy_file_finder
 	url = git://github.com/jamis/fuzzy_file_finder.git
-[submodule "externals/gist-vim"]
-	path = externals/gist-vim
-	url = http://github.com/mattn/gist-vim.git
 [submodule "externals/vim-task"]
 	path = externals/vim-task
 	url = http://github.com/tswicegood/vim-task.git
